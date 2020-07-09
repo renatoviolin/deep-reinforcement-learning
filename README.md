@@ -1,5 +1,5 @@
 # Applying Deep Reinforcement Learning using PyTorch.
-This implementations is part of the study of the course from Phil Tabor Course (https://www.udemy.com/course/deep-q-learning-from-paper-to-code)
+This implementations is part of the study of the course from [Phil Tabor Course](https://www.udemy.com/course/deep-q-learning-from-paper-to-code)
 
 ## Cart-Pole-V1: using 4 states
 ![cart1](dqn/cart-pole/img/cart_1.gif)
