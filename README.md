@@ -2,13 +2,13 @@
 This implementations is part of the study of the course from [Phil Tabor](https://www.udemy.com/course/deep-q-learning-from-paper-to-code)
 
 ## Cart-Pole-V1: using 4 states
-![cart1]<img src="dqn/cart-pole/img/cart_1.gif" width="200px">
+<img src="dqn/cart-pole/img/cart_1.gif" width="300px">
 
 #### After (~60 episodes), agent begin to play and keep the pole upright
-![cart2](dqn/cart-pole/img/cart_2.gif)
+<img src="dqn/cart-pole/img/cart_2.gif" width="300px">
 
 #### After (~ 200 episodes) the agent master the game.
-![cart3](dqn/cart-pole/img/cart_3.gif)
+<img src="dqn/cart-pole/img/cart_3.gif" width="300px">
 
 
 ## Pong: using images as input states
