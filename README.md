@@ -21,3 +21,7 @@ This implementations is part of the study of the course from [Phil Tabor](https:
 
 #### After (~ 200 episodes) the agent master the game.
 ![pong3](dqn/pong/img/pong_3.gif)
+
+
+## Doom: Double DQN algorithm
+![doom2](06-double_dqn_doom/doom/doom.mp4)
